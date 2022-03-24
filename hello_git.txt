@@ -1,3 +1,7 @@
 Hello Git!
 !tiG olleH
+<<<<<<< Updated upstream
 issue-101 been fixed!
+=======
+Test stash.
+>>>>>>> Stashed changes
