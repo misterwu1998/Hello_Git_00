@@ -1,3 +1,4 @@
 Hello Git!
 !tiG olleH
 devdevdev...
+to test fetch
